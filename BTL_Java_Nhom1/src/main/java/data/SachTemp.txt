@@ -1,0 +1,13 @@
+CNTT, S001, Nhập môn về kỹ thuật, 30000
+CNTT, S002, Kỹ thuật lập trình C++, 40000
+CNTT, S003, Nhập môn công nghệ phần mềm, 40000
+CNTT, S004, Mạng máy tính, 35000
+CNTT, S005, An toàn và bảo mật thông tin, 50000
+CNTT, S006, Lập trình hướng đối tượng java, 50000
+CNTT, S007, Tiếng anh Công nghệ thông tin, 55000
+CNTT, S008, Lập trình PHP, 37000
+CNTT, S009, Lập trình PHP++, 37000,K01
+CNTT, S00101, Lập trình PHP++, 37000,K01
+
+
+ề,èwe,ưersef,232332.0,23r

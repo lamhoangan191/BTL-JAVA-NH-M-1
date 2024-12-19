@@ -1,0 +1,10 @@
+DL001,SV002,S001,Nhập môn về kỹ thuật,2,30000,60000
+DL002,SV002,S002,Kỹ thuật lập trình C++,3,40000,120000
+DL003,SV002,S003,Nhập môn công nghệ phần mềm,1,40000,40000
+DL004,SV004,S006,Lập trình hướng đối tượng java,4,50000,200000
+DL005,SV001,S003,Nhập môn công nghệ phần mềm,1,40000,40000
+DL006,SV001,S006,Lập trình hướng đối tượng java,1,50000,50000
+DL00103,SV001,S006,Lập trình hướng đối tượng java,1,50000,50000
+DL00104,SV001,S004,Mạng máy tính,1,35000,35000
+DL00105,SV001,S002,Kỹ thuật lập trình C++,1,40000,40000
+DL00106,SV003,S004,Mạng máy tính,1,35000,35000

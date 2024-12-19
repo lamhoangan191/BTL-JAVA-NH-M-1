@@ -1,0 +1,12 @@
+DML001,SV1,Mạng máy tính,S004,35000,1,35000
+DML002,SV002, Mạng máy tính, S004,35000,1,35000
+DML005,SV23,Nhập môn công nghệ phần mềm,S003,40000,1,40000
+DML006,SV23,Lập trình hướng đối tượng java,S006,50000,1,50000
+DML008,SV002,Tiếng anh Công nghệ thông tin,S007,55000,2,110000
+DML009,SV002,An toàn và bảo mật thông tin,S005,50000,5,250000
+DML010,SV001,Nhập môn công nghệ phần mềm,S003,40000,4,160000
+DML011,SV002,Kỹ thuật lập trình C++,S002,40000,23,920000
+DML012,SV001,Nhập môn công nghệ phần mềm,S003,40000,1,40000
+DML013,SV001,An toàn và bảo mật thông tin,S005,50000,1,50000
+DML014,SV001,Nhập môn về kỹ thuật,S001,30000,1,30000
+DML015,SV003,Kỹ thuật lập trình C++,S002,40000,1,40000

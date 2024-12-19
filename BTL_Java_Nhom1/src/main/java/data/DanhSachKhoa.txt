@@ -1,0 +1,5 @@
+K01, Công nghệ thông tin
+K02, Kế toán
+K03, Kiểm toán
+K04, Khoa cơ khí
+K05, Điện tử
